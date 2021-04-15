@@ -4,6 +4,14 @@ This is the API/Backend for Mikes Basement Bar Website
 
 ## Installation
 `
-cd into repo
 yarn install
 `
+
+## Run Locally
+`
+yarn develop
+`
+
+- Setup an adminstrator account from the /admin page
+- Make updates to objects
+- Push change when objects are updated
