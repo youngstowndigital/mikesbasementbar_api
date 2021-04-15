@@ -1,3 +1,9 @@
-# Strapi application
+# Mikes Basement Bar API
 
-A quick description of your strapi application
+This is the API/Backend for Mikes Basement Bar Website
+
+## Installation
+`
+cd into repo
+yarn install
+`
